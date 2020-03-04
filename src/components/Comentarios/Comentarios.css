@@ -1,0 +1,40 @@
+.Comentarios {
+    width: 80%;
+    margin: 20px auto;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    text-align: center;
+}
+
+.Texto{
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+.Texto p{
+    margin: 5px 0 0 0;
+}
+
+.Borrar{
+    padding: 5% 0;
+}
+
+.Borrar button{
+    color: red;
+    background-color: white;
+    border: 1px solid red;
+    cursor: pointer;
+}
+
+.Borrar button:hover {
+    color: white;
+    background-color: red;
+    border: 1px solid red;
+}
+
+.Borrar Button:focus {
+    color: red;
+    background-color: white;
+    border: 1px solid red;
+    cursor: pointer;
+}
